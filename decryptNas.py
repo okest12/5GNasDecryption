@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from Crypto.Hash import HMAC, SHA256
 from Crypto.Cipher import AES
-from CryptoMobile.Milenage import Milenage
+from CryptoMobile.CryptoMobile.Milenage import Milenage
 import json
 import os
 import tempfile
